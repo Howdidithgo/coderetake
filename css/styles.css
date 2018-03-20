@@ -1,0 +1,70 @@
+h1 {
+text-align: center;
+font-weight: bold;
+font-family: verdana;
+}
+
+p{
+text-align: center;
+font-family: verdana;
+}
+
+img {
+max-width: 300px;
+max-height: 150px;
+margin-right: auto;
+margin-right: auto;
+border-radius:30px:
+}
+
+body {
+  background-color: white;
+}
+
+ul {
+  text-align: center;
+  font-family: verdana;
+}
+
+ol {
+  font-family: verdana;
+}
+
+.container {
+  text-align: center;
+}
+.jumbotron {
+  background-color: #0099ff;
+}
+
+.edu {
+  max-width: 100px;
+  max-height: 100px;
+  margin-right: auto;
+  margin-right: auto;
+  border-radius:25px;
+}
+
+.history {
+  max-width: 100px;
+  max-height: 100px;
+  margin-right: auto;
+  margin-right: auto;
+  border-radius:25px;
+}
+
+.road {
+  max-width: 100px;
+  max-height: 100px;
+  margin-right: auto;
+  margin-right: auto;
+  border-radius:25px;
+}
+
+.happy {
+  max-width: 200px;
+  max-height: 100px;
+  margin-right: auto;
+  margin-right: auto;
+  border-radius:25px;
+}
