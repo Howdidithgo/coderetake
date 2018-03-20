@@ -31,4 +31,5 @@ _The coding languages used are HTML, CSS, and bootstrap.css. Other programs used
 
 *This software is licensed under MIT license.*
 
-Copyright (c) 2018** _Shane Frerichs_**
+Copyright (c) 2018 _Shane Frerichs_
+https://howdidithgo.github.io/coderetake/
