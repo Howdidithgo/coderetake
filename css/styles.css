@@ -10,10 +10,10 @@ font-family: verdana;
 }
 
 img {
-max-width: 300px;
-max-height: 150px;
+max-width: 200px;
+max-height: 100px;
 margin-right: auto;
-margin-right: auto;
+margin-left: auto;
 border-radius:30px:
 }
 
@@ -37,34 +37,11 @@ ol {
   background-color: #0099ff;
 }
 
-.edu {
-  max-width: 100px;
-  max-height: 100px;
-  margin-right: auto;
-  margin-right: auto;
-  border-radius:25px;
+
+.runner {
+  color: #0099ff;
 }
 
-.history {
-  max-width: 100px;
-  max-height: 100px;
-  margin-right: auto;
-  margin-right: auto;
-  border-radius:25px;
-}
-
-.road {
-  max-width: 100px;
-  max-height: 100px;
-  margin-right: auto;
-  margin-right: auto;
-  border-radius:25px;
-}
-
-.happy {
-  max-width: 200px;
-  max-height: 100px;
-  margin-right: auto;
-  margin-right: auto;
-  border-radius:25px;
+.jumper{
+  color: white;
 }
