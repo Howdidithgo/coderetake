@@ -14,7 +14,8 @@ max-width: 200px;
 max-height: 100px;
 margin-right: auto;
 margin-left: auto;
-border-radius:30px:
+border-radius:30px;
+float: none;
 }
 
 body {
@@ -32,16 +33,9 @@ ol {
 
 .container {
   text-align: center;
+  color: black;
 }
 .jumbotron {
   background-color: #0099ff;
-}
-
-
-.runner {
-  color: #0099ff;
-}
-
-.jumper{
   color: white;
 }
